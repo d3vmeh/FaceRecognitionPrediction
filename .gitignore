@@ -3,6 +3,6 @@ venv/
 __pycache__/
 .vscode/
 tombradyimages/
-stepcurryimages/
+stephcurryimages/
 haarcascadestest.py
 predicting.py
