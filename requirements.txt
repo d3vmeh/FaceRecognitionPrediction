@@ -1,7 +1,7 @@
 Flask
 numpy
-opencv-python-headless
-tensorflow-cpu
-keras
+opencv-python-headless==4.2.0.32
+tensorflow-cpu==2.2.0
+keras==2.3.1
 gunicorn
-h5py
+h5py==2.10.0
